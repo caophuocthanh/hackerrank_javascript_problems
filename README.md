@@ -12,10 +12,10 @@ OUTPUT: 0
 INPUT: [3, 1, 3, 1, 1, 3, 3, 5, 1, 3, 1]
 OUTPUT: 5
 
-NOTE
-● Input array is always non empty.
-● Try to optimize time and space complexity.
-● Function signature is as below. But you can modify it according to language you are
+## NOTE
+- Input array is always non empty.
+- Try to optimize time and space complexity.
+- Function signature is as below. But you can modify it according to language you are
 familiar with.
 
 
@@ -37,8 +37,8 @@ OUTPUT: 6
 INPUT: [[1,0,1], [0,1,1], [1,1,2]]
 OUTPUT: -1
 
-NOTE
-● Input grid is 3 x 3.
-● Try to optimize time and space complexity.
-● Function signature is as below. But you can modify it according to language you are
+## NOTE
+- Input grid is 3 x 3.
+- Try to optimize time and space complexity.
+- Function signature is as below. But you can modify it according to language you are
 familiar with.
