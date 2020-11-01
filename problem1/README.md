@@ -1,4 +1,4 @@
-# Problem #1
+# Single Number
 
 ## Description
 Given an integer array, all items repeat 5 times except for just one item that appears once. Please
