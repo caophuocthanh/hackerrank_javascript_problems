@@ -1,4 +1,4 @@
-# Problem #1
+# Problem #1 - Single Number
 
 ## Description
 Given an integer array, all items repeat 5 times except for just one item that appears once. Please
@@ -19,7 +19,7 @@ OUTPUT: 5
 familiar with.
 
 
-# Problem #2
+# Problem #2 - Oranges Rotting
 
 ## Description
 Given a grid as input, each item is one of the below things.
